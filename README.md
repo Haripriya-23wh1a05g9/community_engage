@@ -30,19 +30,16 @@
 * **CSS3**
 * **JavaScript**
 * **Bootstrap**
-* **React.js** *(if used)*
+* **React.js** 
 
 #### 🛠 Backend:
 
-* **Node.js / Express.js / Java** *(based on your implementation)*
+* **Node.js / Express.js / Java** 
 
 #### 🗃️ Database:
 
 * **MongoDB / MySQL**
 
-#### 📍 APIs & Tools:
-
-* **Google Maps API** *(for event location, if integrated)*
 
 
 ### 🌍 Vision
@@ -58,4 +55,4 @@ To create a digital space that strengthens community connections, promotes meani
 
 
 Let me know if you'd like this formatted into a `README.md`, or if you want to include deployment links, contributors, or screenshots!
-# community_engage
+
