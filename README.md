@@ -52,7 +52,3 @@ To create a digital space that strengthens community connections, promotes meani
 > **“Alone we can do so little; together we can do so much.”**
 > — *Helen Keller*
 
-
-
-Let me know if you'd like this formatted into a `README.md`, or if you want to include deployment links, contributors, or screenshots!
-
